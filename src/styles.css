@@ -1,0 +1,9 @@
+.joke {
+  font-size: 30px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(188, 159, 214);
+  padding: 20px;
+  margin: 33px;
+}

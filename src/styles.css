@@ -7,3 +7,14 @@
   padding: 20px;
   margin: 33px;
 }
+h1 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(188, 159, 214);
+  max-width: 50%;
+}
+
+.text {
+  font-size: 15px;
+}
